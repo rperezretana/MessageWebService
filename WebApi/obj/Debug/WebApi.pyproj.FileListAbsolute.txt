@@ -1,0 +1,1 @@
+C:\Users\Rolando\Dropbox (Personal)\Machine Learning\SpamDetector\MessageWebService\WebApi\obj\Debug\WebApi.pyproj.CoreCompileInputs.cache
